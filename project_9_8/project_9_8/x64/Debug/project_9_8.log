@@ -1,0 +1,3 @@
+﻿  test.c
+test.obj : error LNK2005: main 已经在 project_9_8.obj 中定义
+C:\code\project_9_8\x64\Debug\project_9_8.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
