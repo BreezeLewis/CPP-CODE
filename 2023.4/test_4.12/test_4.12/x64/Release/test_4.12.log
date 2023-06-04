@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿  test.c
 x64\Release\test.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
   正在生成代码
@@ -6,3 +7,13 @@ x64\Release\test.obj : warning LNK4042: 对象被多次指定；已忽略多余�
     0 functions had inline decision re-evaluated but remain unchanged
   已完成代码的生成
   test_4.12.vcxproj -> D:\code\2023年\2023年4月\test_4.12\x64\Release\test_4.12.exe
+=======
+﻿  test.c
+x64\Release\test.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  正在生成代码
+  1 of 1 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  test_4.12.vcxproj -> D:\code\2023年\2023年4月\test_4.12\x64\Release\test_4.12.exe
+>>>>>>> cb73fa683f44cfac30efa94f2b3548a5d45d7a6c
