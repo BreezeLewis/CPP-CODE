@@ -1,0 +1,9 @@
+﻿  源.cpp
+D:\code\2023年\2023年6月\test_6.25\test_6.25\源.cpp(12,1): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+D:\code\2023年\2023年6月\test_6.25\test_6.25\源.cpp(24,2): message : 查看对正在编译的 类 模板 实例化“Stack<ElementType>”的引用
+D:\code\2023年\2023年6月\test_6.25\test_6.25\源.cpp(13,1): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+D:\code\2023年\2023年6月\test_6.25\test_6.25\源.cpp(14,1): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+D:\code\2023年\2023年6月\test_6.25\test_6.25\源.cpp(39,6): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+D:\code\2023年\2023年6月\test_6.25\test_6.25\源.cpp(54,6): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+D:\code\2023年\2023年6月\test_6.25\test_6.25\源.cpp(68,13): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+  test_6.25.vcxproj -> D:\code\2023年\2023年6月\test_6.25\x64\Debug\test_6.25.exe
