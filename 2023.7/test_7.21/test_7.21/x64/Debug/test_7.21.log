@@ -1,0 +1,3 @@
+﻿  myStoi.cpp
+D:\code\2023年\2023年7月\test_7.21\test_7.21\myStoi.cpp(35,16): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  test_7.21.vcxproj -> D:\code\2023年\2023年7月\test_7.21\x64\Debug\test_7.21.exe
