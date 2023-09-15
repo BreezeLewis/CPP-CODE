@@ -1,0 +1,14 @@
+D:\code\2023年\2023年9月\test_9.15(C#)\test_9.15(C#)\bin\Debug\net6.0\test_9.15(C#).exe
+D:\code\2023年\2023年9月\test_9.15(C#)\test_9.15(C#)\bin\Debug\net6.0\test_9.15(C#).deps.json
+D:\code\2023年\2023年9月\test_9.15(C#)\test_9.15(C#)\bin\Debug\net6.0\test_9.15(C#).runtimeconfig.json
+D:\code\2023年\2023年9月\test_9.15(C#)\test_9.15(C#)\bin\Debug\net6.0\test_9.15(C#).dll
+D:\code\2023年\2023年9月\test_9.15(C#)\test_9.15(C#)\bin\Debug\net6.0\test_9.15(C#).pdb
+D:\code\2023年\2023年9月\test_9.15(C#)\test_9.15(C#)\obj\Debug\net6.0\test_9.15(C#).GeneratedMSBuildEditorConfig.editorconfig
+D:\code\2023年\2023年9月\test_9.15(C#)\test_9.15(C#)\obj\Debug\net6.0\test_9.15(C#).AssemblyInfoInputs.cache
+D:\code\2023年\2023年9月\test_9.15(C#)\test_9.15(C#)\obj\Debug\net6.0\test_9.15(C#).AssemblyInfo.cs
+D:\code\2023年\2023年9月\test_9.15(C#)\test_9.15(C#)\obj\Debug\net6.0\test_9.15(C#).csproj.CoreCompileInputs.cache
+D:\code\2023年\2023年9月\test_9.15(C#)\test_9.15(C#)\obj\Debug\net6.0\test_9.15(C#).dll
+D:\code\2023年\2023年9月\test_9.15(C#)\test_9.15(C#)\obj\Debug\net6.0\refint\test_9.15(C#).dll
+D:\code\2023年\2023年9月\test_9.15(C#)\test_9.15(C#)\obj\Debug\net6.0\test_9.15(C#).pdb
+D:\code\2023年\2023年9月\test_9.15(C#)\test_9.15(C#)\obj\Debug\net6.0\test_9.15(C#).genruntimeconfig.cache
+D:\code\2023年\2023年9月\test_9.15(C#)\test_9.15(C#)\obj\Debug\net6.0\ref\test_9.15(C#).dll
