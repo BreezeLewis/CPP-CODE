@@ -1,0 +1,10 @@
+﻿  meetChess.cpp
+D:\code\2023年\2023年11月\test_11.1\test_11.1\meetChess.cpp(26,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\code\2023年\2023年11月\test_11.1\test_11.1\meetChess.cpp(74,29): warning C4805: “==”: 在操作中将类型“bool”与类型“int”混合不安全
+D:\code\2023年\2023年11月\test_11.1\test_11.1\meetChess.cpp(89,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\code\2023年\2023年11月\test_11.1\test_11.1\meetChess.cpp(95,5): error C2872: “count”: 不明确的符号
+D:\code\2023年\2023年11月\test_11.1\test_11.1\meetChess.cpp(15,5): message : 可能是“int count”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(5981,45): message : 或  “iterator_traits<_Iter>::difference_type std::count(const _InIt,const _InIt,const _Ty &)”
+D:\code\2023年\2023年11月\test_11.1\test_11.1\meetChess.cpp(96,27): error C2872: “count”: 不明确的符号
+D:\code\2023年\2023年11月\test_11.1\test_11.1\meetChess.cpp(15,5): message : 可能是“int count”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xutility(5981,45): message : 或  “iterator_traits<_Iter>::difference_type std::count(const _InIt,const _InIt,const _Ty &)”
