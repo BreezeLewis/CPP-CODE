@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : 对路径“d:\code\2023年\2023年11月\test_11.26\x64\debug\test_11.26.exe”的访问被拒绝。
+  源.cpp
+  源1.cpp
+  正在生成代码...
+LINK : fatal error LNK1104: 无法打开文件“D:\code\2023年\2023年11月\test_11.26\x64\Debug\test_11.26.exe”
