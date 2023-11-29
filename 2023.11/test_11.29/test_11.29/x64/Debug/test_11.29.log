@@ -1,0 +1,3 @@
+﻿  ModClass.cpp
+D:\code\2023年\2023年11月\test_11.29\test_11.29\ModClass.cpp(55): warning C4715: “Inverse”: 不是所有的控件路径都返回值
+  test_11.29.vcxproj -> D:\code\2023年\2023年11月\test_11.29\x64\Debug\test_11.29.exe
