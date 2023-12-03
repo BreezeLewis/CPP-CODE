@@ -1,0 +1,16 @@
+D:\code\2023年\2023年12月\test_12.3(case1201)\test_12.3(case1201)\bin\Debug\net6.0-windows\test_12.3(case1201).exe
+D:\code\2023年\2023年12月\test_12.3(case1201)\test_12.3(case1201)\bin\Debug\net6.0-windows\test_12.3(case1201).deps.json
+D:\code\2023年\2023年12月\test_12.3(case1201)\test_12.3(case1201)\bin\Debug\net6.0-windows\test_12.3(case1201).runtimeconfig.json
+D:\code\2023年\2023年12月\test_12.3(case1201)\test_12.3(case1201)\bin\Debug\net6.0-windows\test_12.3(case1201).dll
+D:\code\2023年\2023年12月\test_12.3(case1201)\test_12.3(case1201)\bin\Debug\net6.0-windows\test_12.3(case1201).pdb
+D:\code\2023年\2023年12月\test_12.3(case1201)\test_12.3(case1201)\obj\Debug\net6.0-windows\test_12._3_case1201_.Form1.resources
+D:\code\2023年\2023年12月\test_12.3(case1201)\test_12.3(case1201)\obj\Debug\net6.0-windows\test_12.3(case1201).csproj.GenerateResource.cache
+D:\code\2023年\2023年12月\test_12.3(case1201)\test_12.3(case1201)\obj\Debug\net6.0-windows\test_12.3(case1201).GeneratedMSBuildEditorConfig.editorconfig
+D:\code\2023年\2023年12月\test_12.3(case1201)\test_12.3(case1201)\obj\Debug\net6.0-windows\test_12.3(case1201).AssemblyInfoInputs.cache
+D:\code\2023年\2023年12月\test_12.3(case1201)\test_12.3(case1201)\obj\Debug\net6.0-windows\test_12.3(case1201).AssemblyInfo.cs
+D:\code\2023年\2023年12月\test_12.3(case1201)\test_12.3(case1201)\obj\Debug\net6.0-windows\test_12.3(case1201).csproj.CoreCompileInputs.cache
+D:\code\2023年\2023年12月\test_12.3(case1201)\test_12.3(case1201)\obj\Debug\net6.0-windows\test_12.3(case1201).dll
+D:\code\2023年\2023年12月\test_12.3(case1201)\test_12.3(case1201)\obj\Debug\net6.0-windows\refint\test_12.3(case1201).dll
+D:\code\2023年\2023年12月\test_12.3(case1201)\test_12.3(case1201)\obj\Debug\net6.0-windows\test_12.3(case1201).pdb
+D:\code\2023年\2023年12月\test_12.3(case1201)\test_12.3(case1201)\obj\Debug\net6.0-windows\test_12.3(case1201).genruntimeconfig.cache
+D:\code\2023年\2023年12月\test_12.3(case1201)\test_12.3(case1201)\obj\Debug\net6.0-windows\ref\test_12.3(case1201).dll
