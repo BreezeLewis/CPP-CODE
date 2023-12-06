@@ -1,0 +1,10 @@
+D:\code\2023年\2023年12月\test_12.6(case1301)\test_12.6(case1301)\bin\Debug\test_12.6(case1301).exe.config
+D:\code\2023年\2023年12月\test_12.6(case1301)\test_12.6(case1301)\bin\Debug\test_12.6(case1301).exe
+D:\code\2023年\2023年12月\test_12.6(case1301)\test_12.6(case1301)\bin\Debug\test_12.6(case1301).pdb
+D:\code\2023年\2023年12月\test_12.6(case1301)\test_12.6(case1301)\obj\Debug\test_12.6(case1301).csproj.AssemblyReference.cache
+D:\code\2023年\2023年12月\test_12.6(case1301)\test_12.6(case1301)\obj\Debug\test_12._6_case1301_.Form1.resources
+D:\code\2023年\2023年12月\test_12.6(case1301)\test_12.6(case1301)\obj\Debug\test_12._6_case1301_.Properties.Resources.resources
+D:\code\2023年\2023年12月\test_12.6(case1301)\test_12.6(case1301)\obj\Debug\test_12.6(case1301).csproj.GenerateResource.cache
+D:\code\2023年\2023年12月\test_12.6(case1301)\test_12.6(case1301)\obj\Debug\test_12.6(case1301).csproj.CoreCompileInputs.cache
+D:\code\2023年\2023年12月\test_12.6(case1301)\test_12.6(case1301)\obj\Debug\test_12.6(case1301).exe
+D:\code\2023年\2023年12月\test_12.6(case1301)\test_12.6(case1301)\obj\Debug\test_12.6(case1301).pdb
