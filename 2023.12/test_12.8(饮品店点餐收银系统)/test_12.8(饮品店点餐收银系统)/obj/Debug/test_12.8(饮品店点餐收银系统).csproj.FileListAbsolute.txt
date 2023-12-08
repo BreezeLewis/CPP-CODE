@@ -1,0 +1,13 @@
+D:\code\2023年\2023年12月\test_12.8(饮品店点餐收银系统)\test_12.8(饮品店点餐收银系统)\obj\Debug\test_12.8(饮品店点餐收银系统).csproj.AssemblyReference.cache
+D:\code\2023年\2023年12月\test_12.8(饮品店点餐收银系统)\test_12.8(饮品店点餐收银系统)\obj\Debug\test_12._8_饮品店点餐收银系统_.Frm_Login.resources
+D:\code\2023年\2023年12月\test_12.8(饮品店点餐收银系统)\test_12.8(饮品店点餐收银系统)\obj\Debug\test_12._8_饮品店点餐收银系统_.Properties.Resources.resources
+D:\code\2023年\2023年12月\test_12.8(饮品店点餐收银系统)\test_12.8(饮品店点餐收银系统)\obj\Debug\test_12.8(饮品店点餐收银系统).csproj.GenerateResource.cache
+D:\code\2023年\2023年12月\test_12.8(饮品店点餐收银系统)\test_12.8(饮品店点餐收银系统)\obj\Debug\test_12.8(饮品店点餐收银系统).csproj.CoreCompileInputs.cache
+D:\code\2023年\2023年12月\test_12.8(饮品店点餐收银系统)\test_12.8(饮品店点餐收银系统)\bin\Debug\test_12.8(饮品店点餐收银系统).exe.config
+D:\code\2023年\2023年12月\test_12.8(饮品店点餐收银系统)\test_12.8(饮品店点餐收银系统)\bin\Debug\test_12.8(饮品店点餐收银系统).exe
+D:\code\2023年\2023年12月\test_12.8(饮品店点餐收银系统)\test_12.8(饮品店点餐收银系统)\bin\Debug\test_12.8(饮品店点餐收银系统).pdb
+D:\code\2023年\2023年12月\test_12.8(饮品店点餐收银系统)\test_12.8(饮品店点餐收银系统)\obj\Debug\test_12.8(饮品店点餐收银系统).exe
+D:\code\2023年\2023年12月\test_12.8(饮品店点餐收银系统)\test_12.8(饮品店点餐收银系统)\obj\Debug\test_12.8(饮品店点餐收银系统).pdb
+D:\code\2023年\2023年12月\test_12.8(饮品店点餐收银系统)\test_12.8(饮品店点餐收银系统)\obj\Debug\test_12._8_饮品店点餐收银系统_.饮品店点餐收银系统.resources
+D:\code\2023年\2023年12月\test_12.8(饮品店点餐收银系统)\test_12.8(饮品店点餐收银系统)\obj\Debug\test_12._8_饮品店点餐收银系统_.Frm_TeaInfoManage.resources
+D:\code\2023年\2023年12月\test_12.8(饮品店点餐收银系统)\test_12.8(饮品店点餐收银系统)\obj\Debug\test_12._8_饮品店点餐收银系统_.Frm_MemberInfoManage.resources
