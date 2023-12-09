@@ -1,0 +1,174 @@
+template<typename Key, typename Comparable>
+class BinarySearchTree {
+private:
+    struct BinaryNode
+    {
+        Comparable element;
+        BinaryNode* left;
+        BinaryNode* right;
+
+        BinaryNode(const Comparable& e, BinaryNode* lt = nullptr, BinaryNode* rt = nullptr) :element(e), left(lt), right(rt)
+        {}
+    };
+    BinaryNode* root;
+public:
+
+    BinarySearchTree() :root(nullptr)
+    {}
+    //copy constructor
+    BinaryNode* Copy(BinaryNode* cur)
+    {
+        if (cur == nullptr)
+            return nullptr;
+        else
+            return new BinaryNode(cur->element, Copy(cur->left), Copy(cur->right));
+    }
+    BinarySearchTree(const BinarySearchTree& rhs)
+    {
+        root = Copy(rhs.root);
+    }
+
+    //destructor
+    void Clean(BinaryNode*& root)
+    {
+        if (root == nullptr)
+            return;
+        Clean(root->left);
+        Clean(root->right);
+        delete root;
+        root = nullptr;
+    }
+    ~BinarySearchTree()
+    {
+        Clean(root);
+    }
+
+    //return true if empty, return false otherwise
+
+    bool IsEmpty()const
+    {
+        return Size() == 0;
+    }
+
+    //return the number of elements
+    size_t size(BinaryNode* root)const
+    {
+        if (root == nullptr)
+            return 0;
+        return size(root->left) + size(root->right) + 1;
+    }
+    size_t Size()const
+    {
+        return size(root);
+    }
+
+    //Precondition: Key类型和Comparable类型可以比较大小
+
+   //即查找方法可以使用 k < d和k>d的比较运算，其中k具有类型Key, d具有类型Comparable
+
+   //return true if there is an element with key k and return it with e. 
+
+   //return false otherwise.
+    bool search(const Key& k, Comparable& e, BinaryNode* cur)const
+    {
+        if (cur == nullptr)
+            return false;
+        else if (k < cur->element)
+            return search(k, e, cur->left);
+        else if (k > cur->element)
+            return search(k, e, cur->right);
+        else
+        {
+            e = cur->element;
+            return true;
+        }
+    }
+    bool Search(const Key& k, Comparable& e) const
+    {
+        return search(k, e, root);
+    }
+
+    //overloaded assignment or copy assignment
+
+    BinarySearchTree& operator=(const BinarySearchTree& rhs)
+    {
+        if (root != rhs.root)
+        {
+            Clean(root);
+            root = Copy(rhs.root);
+        }
+        return *this;
+    }
+
+    //Precondition: Comparable类型的元素之间可以比较大小
+
+    //即插入方法可以使用 d1 < d2和d1>d2的比较运算，其中d1和d2均具有类型Comparable
+
+   //insert element x 
+    void insert(const Comparable& x, BinaryNode*& cur)
+    {
+        if (cur == nullptr)
+            cur = new BinaryNode(x);
+        else if (x < cur->element)
+            insert(x, cur->left);
+        else if (x > cur->element)
+            insert(x, cur->right);
+    }
+    void Insert(const Comparable& x)
+    {
+        insert(x, this->root);
+    }
+
+    //Precondition: Comparable类型的元素之间可以比较大小
+
+   //即删除方法可以使用 d1 < d2和d1>d2的比较运算，其中d1和d2均具有类型Comparable
+
+   //erase element x
+    void erase(const Comparable& x, BinaryNode*& root)
+    {
+        if (root == nullptr)
+            return;
+        else if (x < root->element)
+            erase(x, root->left);
+        else if (x > root->element)
+            erase(x, root->right);
+        else
+        {
+            BinaryNode* del = root;
+            if (root->left == nullptr)
+                root = root->right;
+            else if (root->right == nullptr)
+                root = root->left;
+            else
+            {
+                BinaryNode* minRight = root->right;
+                while (minRight->left)
+                    minRight = minRight->left;
+
+                std::swap(root->element, minRight->element);
+                erase(x, root->right);
+            }  
+            delete del;
+        }
+    }
+    void Erase(const Comparable& x)
+    {
+        erase(x, root);
+    }
+
+    // apply visit to every element
+    void inorder(void (*visit)(Comparable& x), BinaryNode* cur)
+    {
+        if (cur)
+        {
+            inorder(visit, cur->left);
+            visit(cur->element);
+            inorder(visit, cur->right);
+        }
+    }
+    void Inorder(void (*visit)(Comparable& x))
+    {
+        inorder(visit, root);
+    }
+
+};
