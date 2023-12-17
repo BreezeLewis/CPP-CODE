@@ -1,0 +1,9 @@
+D:\code\2023年\2023年12月\test_12.17(饮品店管理系统)\test_12.17(饮品店管理系统)\bin\Debug\test_12.17(饮品店管理系统).exe.config
+D:\code\2023年\2023年12月\test_12.17(饮品店管理系统)\test_12.17(饮品店管理系统)\bin\Debug\test_12.17(饮品店管理系统).exe
+D:\code\2023年\2023年12月\test_12.17(饮品店管理系统)\test_12.17(饮品店管理系统)\bin\Debug\test_12.17(饮品店管理系统).pdb
+D:\code\2023年\2023年12月\test_12.17(饮品店管理系统)\test_12.17(饮品店管理系统)\obj\Debug\test_12.17(饮品店管理系统).csproj.AssemblyReference.cache
+D:\code\2023年\2023年12月\test_12.17(饮品店管理系统)\test_12.17(饮品店管理系统)\obj\Debug\test_12._17_饮品店管理系统_.Properties.Resources.resources
+D:\code\2023年\2023年12月\test_12.17(饮品店管理系统)\test_12.17(饮品店管理系统)\obj\Debug\test_12.17(饮品店管理系统).csproj.GenerateResource.cache
+D:\code\2023年\2023年12月\test_12.17(饮品店管理系统)\test_12.17(饮品店管理系统)\obj\Debug\test_12.17(饮品店管理系统).csproj.CoreCompileInputs.cache
+D:\code\2023年\2023年12月\test_12.17(饮品店管理系统)\test_12.17(饮品店管理系统)\obj\Debug\test_12.17(饮品店管理系统).exe
+D:\code\2023年\2023年12月\test_12.17(饮品店管理系统)\test_12.17(饮品店管理系统)\obj\Debug\test_12.17(饮品店管理系统).pdb
