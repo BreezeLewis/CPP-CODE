@@ -1,0 +1,7 @@
+﻿  源.cpp
+D:\code\2023年\2023年12月\test_12.19\test_12.19\源.cpp(29,37): warning C4267: “=”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  test_12.19.vcxproj -> D:\code\2023年\2023年12月\test_12.19\x64\Debug\test_12.19.exe
