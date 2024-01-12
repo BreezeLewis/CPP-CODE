@@ -1,0 +1,5 @@
+﻿  test.c
+D:\code\2024年\2024年1月\test_1.12\test_1.12\test.c(3,9): warning C4086: pragma 参数应为 "1"、"2"、"4"、"8" 或者 "16"
+D:\code\2024年\2024年1月\test_1.12\test_1.12\test.c(15,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\code\2024年\2024年1月\test_1.12\test_1.12\test.c(15,9): message : 请考虑在格式字符串中使用“%zd”
+  test_1.12.vcxproj -> D:\code\2024年\2024年1月\test_1.12\x64\Debug\test_1.12.exe
