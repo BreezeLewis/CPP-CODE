@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\2024\u5E74\\2024\u5E748\u6708\\test_8.6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F443DB17-F871-4B5C-8C10-D0A77CD17B4E}|test_8.6\\test_8.6.vcxproj|D:\\code\\2024\u5E74\\2024\u5E748\u6708\\test_8.6\\test_8.6\\AcWing 188. \u6B66\u58EB\u98CE\u5EA6\u7684\u725B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F443DB17-F871-4B5C-8C10-D0A77CD17B4E}|test_8.6\\test_8.6.vcxproj|solutionrelative:test_8.6\\AcWing 188. \u6B66\u58EB\u98CE\u5EA6\u7684\u725B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AcWing 188. \u6B66\u58EB\u98CE\u5EA6\u7684\u725B.cpp",
+              "DocumentMoniker": "D:\\code\\2024\u5E74\\2024\u5E748\u6708\\test_8.6\\test_8.6\\AcWing 188. \u6B66\u58EB\u98CE\u5EA6\u7684\u725B.cpp",
+              "RelativeDocumentMoniker": "test_8.6\\AcWing 188. \u6B66\u58EB\u98CE\u5EA6\u7684\u725B.cpp",
+              "ToolTip": "D:\\code\\2024\u5E74\\2024\u5E748\u6708\\test_8.6\\test_8.6\\AcWing 188. \u6B66\u58EB\u98CE\u5EA6\u7684\u725B.cpp",
+              "RelativeToolTip": "test_8.6\\AcWing 188. \u6B66\u58EB\u98CE\u5EA6\u7684\u725B.cpp",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAowEAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-06T14:06:42.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
