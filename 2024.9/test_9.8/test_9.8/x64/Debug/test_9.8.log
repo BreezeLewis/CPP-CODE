@@ -1,0 +1,6 @@
+﻿  test.cpp
+D:\code\2024年\2024年9月\test_9.8\test_9.8\test.cpp(9,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\code\2024年\2024年9月\test_9.8\test_9.8\test.cpp(37,7): warning C4101: “b”: 未引用的局部变量
+D:\code\2024年\2024年9月\test_9.8\test_9.8\test.cpp(41,7): warning C4101: “x”: 未引用的局部变量
+D:\code\2024年\2024年9月\test_9.8\test_9.8\test.cpp(39,7): warning C4101: “c”: 未引用的局部变量
+  test_9.8.vcxproj -> D:\code\2024年\2024年9月\test_9.8\x64\Debug\test_9.8.exe
