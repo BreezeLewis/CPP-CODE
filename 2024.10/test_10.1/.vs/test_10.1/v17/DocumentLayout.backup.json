@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\2024\u5E74\\2024\u5E7410\u6708\\test_10.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9F4309-40E1-4A80-94A5-B2CF95DFC00A}|test_10.1\\test_10.1.vcxproj|D:\\code\\2024\u5E74\\2024\u5E7410\u6708\\test_10.1\\test_10.1\\E - EXCEL\u6392\u5E8F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C9F4309-40E1-4A80-94A5-B2CF95DFC00A}|test_10.1\\test_10.1.vcxproj|solutionrelative:test_10.1\\E - EXCEL\u6392\u5E8F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "E - EXCEL\u6392\u5E8F.cpp",
+              "DocumentMoniker": "D:\\code\\2024\u5E74\\2024\u5E7410\u6708\\test_10.1\\test_10.1\\E - EXCEL\u6392\u5E8F.cpp",
+              "RelativeDocumentMoniker": "test_10.1\\E - EXCEL\u6392\u5E8F.cpp",
+              "ToolTip": "D:\\code\\2024\u5E74\\2024\u5E7410\u6708\\test_10.1\\test_10.1\\E - EXCEL\u6392\u5E8F.cpp*",
+              "RelativeToolTip": "test_10.1\\E - EXCEL\u6392\u5E8F.cpp*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAMwCsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T10:21:04.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
