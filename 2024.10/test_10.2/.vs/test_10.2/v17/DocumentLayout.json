@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\2024\u5E74\\2024\u5E7410\u6708\\test_10.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{145E329D-E902-4E06-A53D-8B05ADF17ACC}|test_10.2\\test_10.2.vcxproj|D:\\code\\2024\u5E74\\2024\u5E7410\u6708\\test_10.2\\test_10.2\\F - Andy\u0027s First Dictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{145E329D-E902-4E06-A53D-8B05ADF17ACC}|test_10.2\\test_10.2.vcxproj|solutionrelative:test_10.2\\F - Andy\u0027s First Dictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "F - Andy\u0027s First Dictionary.cpp",
+              "DocumentMoniker": "D:\\code\\2024\u5E74\\2024\u5E7410\u6708\\test_10.2\\test_10.2\\F - Andy\u0027s First Dictionary.cpp",
+              "RelativeDocumentMoniker": "test_10.2\\F - Andy\u0027s First Dictionary.cpp",
+              "ToolTip": "D:\\code\\2024\u5E74\\2024\u5E7410\u6708\\test_10.2\\test_10.2\\F - Andy\u0027s First Dictionary.cpp",
+              "RelativeToolTip": "test_10.2\\F - Andy\u0027s First Dictionary.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T10:58:29.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
