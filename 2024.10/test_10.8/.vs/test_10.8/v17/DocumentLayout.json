@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\2024\u5E74\\2024\u5E7410\u6708\\test_10.8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6443071-4231-4ADB-90A1-79C8DD258B2F}|test_10.8\\test_10.8.vcxproj|D:\\code\\2024\u5E74\\2024\u5E7410\u6708\\test_10.8\\test_10.8\\A - Division.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6443071-4231-4ADB-90A1-79C8DD258B2F}|test_10.8\\test_10.8.vcxproj|solutionrelative:test_10.8\\A - Division.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A - Division.cpp",
+              "DocumentMoniker": "D:\\code\\2024\u5E74\\2024\u5E7410\u6708\\test_10.8\\test_10.8\\A - Division.cpp",
+              "RelativeDocumentMoniker": "test_10.8\\A - Division.cpp",
+              "ToolTip": "D:\\code\\2024\u5E74\\2024\u5E7410\u6708\\test_10.8\\test_10.8\\A - Division.cpp",
+              "RelativeToolTip": "test_10.8\\A - Division.cpp",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T11:04:04.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
