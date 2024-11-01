@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\2024\u5E74\\2024\u5E7411\u6708\\test_11.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F863D5C-7319-4F9D-B7AD-DFC1F3C44844}|test_11.1\\test_11.1.vcxproj|D:\\code\\2024\u5E74\\2024\u5E7411\u6708\\test_11.1\\test_11.1\\Max Sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F863D5C-7319-4F9D-B7AD-DFC1F3C44844}|test_11.1\\test_11.1.vcxproj|solutionrelative:test_11.1\\Max Sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Max Sum.cpp",
+              "DocumentMoniker": "D:\\code\\2024\u5E74\\2024\u5E7411\u6708\\test_11.1\\test_11.1\\Max Sum.cpp",
+              "RelativeDocumentMoniker": "test_11.1\\Max Sum.cpp",
+              "ToolTip": "D:\\code\\2024\u5E74\\2024\u5E7411\u6708\\test_11.1\\test_11.1\\Max Sum.cpp",
+              "RelativeToolTip": "test_11.1\\Max Sum.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAUwDUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T07:39:22.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
