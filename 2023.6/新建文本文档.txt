@@ -1,0 +1,44 @@
+Problem E. Shield Block
+Input file: standard input
+Output file: standard output
+Time limit: 2 seconds
+Memory limit: 256 megabytes
+Little Q is playing Hearthstone, and his opponent is a Warrior who is skilled at getting armor.
+Initially, there are n cards in Little Q’s deck, and he will play them from top to bottom. The i-th card
+deals ai damage to the Warrior.
+Each turn, the Warrior will reset his armor to D points (note that it is “reset”, not “increase”). Then,
+Little Q will play k cards in order (If the remaining cards are fewer than k, Little Q will still play all the
+remaining cards in the last turn). If the total damage of these k cards (called S) exceeds D, the Warrior
+will take S − D damage; otherwise, the Warrior will take no damage. The game ends when all the cards
+in Little Q’s deck have been played.
+Little Q has a special ability: he can remove any cards from his deck before the game starts, without
+changing the relative position of the remaining cards. He wants to know, for each k = 1; 2; :::; n, the
+maximum damage he can deal to the Warrior.
+Input
+The first line contains two integers n; D (1 ≤ n ≤ 106; 1 ≤ D ≤ 109), representing the number of cards in
+Little Q’s deck and the Warrior’s armor.
+The next line contains n integers ai (1 ≤ ai ≤ 1012), representing the damage of each card in the deck
+from top to bottom.
+Output
+Output n lines. The i-th line contains an integer, denoting the maximum damage Little Q can deal to the
+Warrior when k = i.
+Example
+standard input 
+5 5
+2 1 5 4 3
+standard output
+0
+4
+7
+9
+10
+Note
+In the example, when k = 1, since only one card can be played per turn, it is impossible to deal any
+damage to the Warrior anyway.
+When k = 2, by removing the 2nd card, the damage in the first round is 2 + 5 − 5 = 2, and in the second
+round, the damage is 4 + 3 − 5 = 2.
+When k = 3, by removing the 1st and 2nd cards, the damage in the first round is 5 + 4 + 3 − 5 = 7.
+When k = 4, by removing the 2nd card, the damage in the first round is 2 + 5 + 4 + 3 − 5 = 9.
+When k = 5, no cards are removed, and the damage in the first round is 2 + 1 + 5 + 4 + 3 − 5 = 10.
+
+用C++完成
