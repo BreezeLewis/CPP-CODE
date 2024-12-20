@@ -1,0 +1,3 @@
+﻿  洛谷P3366.cpp
+D:\code\2024年\2024年12月\test_12.20\test_12.20\洛谷P3366.cpp(42,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\code\2024年\2024年12月\test_12.20\test_12.20\洛谷P3366.cpp(45,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
