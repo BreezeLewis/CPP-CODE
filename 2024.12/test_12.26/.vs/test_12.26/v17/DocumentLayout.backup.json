@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\2024\u5E74\\2024\u5E7412\u6708\\test_12.26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D83DDB-5580-4B72-B04D-D6A89105B91C}|test_12.26\\test_12.26.vcxproj|D:\\code\\2024\u5E74\\2024\u5E7412\u6708\\test_12.26\\test_12.26\\Codeforces 1534D - Lost Tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2D83DDB-5580-4B72-B04D-D6A89105B91C}|test_12.26\\test_12.26.vcxproj|solutionrelative:test_12.26\\Codeforces 1534D - Lost Tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D83DDB-5580-4B72-B04D-D6A89105B91C}|test_12.26\\test_12.26.vcxproj|D:\\code\\2024\u5E74\\2024\u5E7412\u6708\\test_12.26\\test_12.26\\stdc\u002B\u002B.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2D83DDB-5580-4B72-B04D-D6A89105B91C}|test_12.26\\test_12.26.vcxproj|solutionrelative:test_12.26\\stdc\u002B\u002B.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stdc\u002B\u002B.h",
+              "DocumentMoniker": "D:\\code\\2024\u5E74\\2024\u5E7412\u6708\\test_12.26\\test_12.26\\stdc\u002B\u002B.h",
+              "RelativeDocumentMoniker": "test_12.26\\stdc\u002B\u002B.h",
+              "ToolTip": "D:\\code\\2024\u5E74\\2024\u5E7412\u6708\\test_12.26\\test_12.26\\stdc\u002B\u002B.h",
+              "RelativeToolTip": "test_12.26\\stdc\u002B\u002B.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-19T08:27:09.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Codeforces 1534D - Lost Tree.cpp",
+              "DocumentMoniker": "D:\\code\\2024\u5E74\\2024\u5E7412\u6708\\test_12.26\\test_12.26\\Codeforces 1534D - Lost Tree.cpp",
+              "RelativeDocumentMoniker": "test_12.26\\Codeforces 1534D - Lost Tree.cpp",
+              "ToolTip": "D:\\code\\2024\u5E74\\2024\u5E7412\u6708\\test_12.26\\test_12.26\\Codeforces 1534D - Lost Tree.cpp*",
+              "RelativeToolTip": "test_12.26\\Codeforces 1534D - Lost Tree.cpp*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-19T07:55:58.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
