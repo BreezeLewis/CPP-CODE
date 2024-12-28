@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\2024\u5E74\\2024\u5E7412\u6708\\test_12.28\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CABC3AFE-B1BC-4823-9304-B04A2A7C2F1F}|test_12.28\\test_12.28.vcxproj|D:\\code\\2024\u5E74\\2024\u5E7412\u6708\\test_12.28\\test_12.28\\1806E - Tree Master.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CABC3AFE-B1BC-4823-9304-B04A2A7C2F1F}|test_12.28\\test_12.28.vcxproj|solutionrelative:test_12.28\\1806E - Tree Master.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1806E - Tree Master.cpp",
+              "DocumentMoniker": "D:\\code\\2024\u5E74\\2024\u5E7412\u6708\\test_12.28\\test_12.28\\1806E - Tree Master.cpp",
+              "RelativeDocumentMoniker": "test_12.28\\1806E - Tree Master.cpp",
+              "ToolTip": "D:\\code\\2024\u5E74\\2024\u5E7412\u6708\\test_12.28\\test_12.28\\1806E - Tree Master.cpp",
+              "RelativeToolTip": "test_12.28\\1806E - Tree Master.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvx8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T02:34:03.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
