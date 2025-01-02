@@ -16,5 +16,10 @@ namespace test_12._8_饮品店点餐收银系统_
         {
             InitializeComponent();
         }
+
+        private void Frm_MemberInfoManage_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

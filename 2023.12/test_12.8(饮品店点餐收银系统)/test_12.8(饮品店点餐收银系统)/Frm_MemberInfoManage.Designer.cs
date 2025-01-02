@@ -59,6 +59,7 @@
             this.Controls.Add(this.groupBox1);
             this.Name = "Frm_MemberInfoManage";
             this.Text = "会员信息管理";
+            this.Load += new System.EventHandler(this.Frm_MemberInfoManage_Load);
             this.ResumeLayout(false);
 
         }
