@@ -1,0 +1,38 @@
+﻿  test.cpp
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(35,14): error C3646: “s”: 未知重写说明符
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(35,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(36,13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(36,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(36,33): error C2238: 意外的标记位于“;”之前
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(37,23): error C2061: 语法错误: 标识符“ListNode”
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(38,18): error C2061: 语法错误: 标识符“ListNode”
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(39,13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(39,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(39,28): error C2238: 意外的标记位于“;”之前
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(11,9): error C2065: “s”: 未声明的标识符
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(14,9): error C2065: “ListNode”: 未声明的标识符
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(14,19): error C2065: “large”: 未声明的标识符
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(14,27): error C3861: “createLargeList”: 找不到标识符
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(15,22): error C2065: “s”: 未声明的标识符
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(15,36): error C2065: “large”: 未声明的标识符
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(15,9): error C2660: “ListTest::validateList”: 函数不接受 1 个参数
+      D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(37,10):
+      参见“ListTest::validateList”的声明
+      D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(15,9):
+      尝试匹配参数列表“()”时
+  
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(18,9): error C2065: “ListNode”: 未声明的标识符
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(18,19): error C2065: “cycle”: 未声明的标识符
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(18,27): error C3861: “createCycle”: 找不到标识符
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(20,13): error C2065: “s”: 未声明的标识符
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(20,27): error C2065: “cycle”: 未声明的标识符
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(28,26): error C3861: “createRandomList”: 找不到标识符
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(28,24): error C3535: 无法推导“auto *”的类型(依据“unknown-type”)
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(29,30): error C2065: “s”: 未声明的标识符
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(30,21): error C3536: “reversed”: 初始化之前无法使用
+D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(30,13): error C2660: “ListTest::cleanup”: 函数不接受 1 个参数
+      D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(38,10):
+      参见“ListTest::cleanup”的声明
+      D:\code\2025年\2025年1月\test_1.3\test_1.3\test.cpp(30,13):
+      尝试匹配参数列表“(int)”时
+  
