@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\2025\u5E74\\2025\u5E741\u6708\\test_1.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77FCE602-271F-49C5-87BB-DD689FBD8163}|test_1.5\\test_1.5.vcxproj|D:\\code\\2025\u5E74\\2025\u5E741\u6708\\test_1.5\\test_1.5\\Minimal Cost 1491B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77FCE602-271F-49C5-87BB-DD689FBD8163}|test_1.5\\test_1.5.vcxproj|solutionrelative:test_1.5\\Minimal Cost 1491B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Minimal Cost 1491B.cpp",
+              "DocumentMoniker": "D:\\code\\2025\u5E74\\2025\u5E741\u6708\\test_1.5\\test_1.5\\Minimal Cost 1491B.cpp",
+              "RelativeDocumentMoniker": "test_1.5\\Minimal Cost 1491B.cpp",
+              "ToolTip": "D:\\code\\2025\u5E74\\2025\u5E741\u6708\\test_1.5\\test_1.5\\Minimal Cost 1491B.cpp",
+              "RelativeToolTip": "test_1.5\\Minimal Cost 1491B.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-29T01:36:31.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
