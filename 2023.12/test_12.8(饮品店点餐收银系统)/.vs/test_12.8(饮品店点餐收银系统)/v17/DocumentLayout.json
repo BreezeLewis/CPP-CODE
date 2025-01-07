@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\code-github\\CPP-CODE\\2023.12\\test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6006627-2623-448F-AC37-33884FA97E45}|test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF).csproj|D:\\code-github\\CPP-CODE\\2023.12\\test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6006627-2623-448F-AC37-33884FA97E45}|test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF).csproj|d:\\code-github\\cpp-code\\2023.12\\test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6006627-2623-448F-AC37-33884FA97E45}|test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF).csproj|solutionrelative:test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{A6006627-2623-448F-AC37-33884FA97E45}|test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF).csproj|solutionrelative:test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6006627-2623-448F-AC37-33884FA97E45}|test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF).csproj|d:\\code-github\\cpp-code\\2023.12\\test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\frm_teainfomanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6006627-2623-448F-AC37-33884FA97E45}|test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF).csproj|D:\\code-github\\CPP-CODE\\2023.12\\test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\frm_teainfomanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6006627-2623-448F-AC37-33884FA97E45}|test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF).csproj|solutionrelative:test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\frm_teainfomanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -131,8 +131,7 @@
               "ToolTip": "D:\\code-github\\CPP-CODE\\2023.12\\test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\Frm_TeaInfoManage.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\Frm_TeaInfoManage.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T08:54:50.883Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2024-02-26T08:54:50.883Z"
             },
             {
               "$type": "Document",
@@ -144,8 +143,7 @@
               "RelativeToolTip": "test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\Frm_TeaInfoManage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T08:54:50.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-26T08:54:50.884Z"
             },
             {
               "$type": "Document",
@@ -155,7 +153,7 @@
               "RelativeDocumentMoniker": "test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\Frm_Login.cs",
               "ToolTip": "D:\\code-github\\CPP-CODE\\2023.12\\test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\Frm_Login.cs",
               "RelativeToolTip": "test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\Frm_Login.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAhwC0AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAhwC0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-26T08:54:50.885Z",
               "EditorCaption": ""
@@ -169,8 +167,7 @@
               "ToolTip": "D:\\code-github\\CPP-CODE\\2023.12\\test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\Frm_Login.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "test_12.8(\u996E\u54C1\u5E97\u70B9\u9910\u6536\u94F6\u7CFB\u7EDF)\\Frm_Login.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T08:54:50.886Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2024-02-26T08:54:50.886Z"
             },
             {
               "$type": "Document",
