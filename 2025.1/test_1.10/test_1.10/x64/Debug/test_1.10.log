@@ -1,0 +1,5 @@
+﻿  Moving Chips 1680C.cpp
+D:\code\2025年\2025年1月\test_1.10\test_1.10\Moving Chips 1680C.cpp(9,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\2025年\2025年1月\test_1.10\test_1.10\Moving Chips 1680C.cpp(10,14): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\code\2025年\2025年1月\test_1.10\test_1.10\Moving Chips 1680C.cpp(34,31): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\code\2025年\2025年1月\test_1.10\test_1.10\Moving Chips 1680C.cpp(48,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
