@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\2025\u5E74\\2025\u5E741\u6708\\test_1.12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22A74C08-7EC2-461D-BA23-F335C45235FB}|test_1.12\\test_1.12.vcxproj|D:\\code\\2025\u5E74\\2025\u5E741\u6708\\test_1.12\\test_1.12\\Phoenix and Towers 1515C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22A74C08-7EC2-461D-BA23-F335C45235FB}|test_1.12\\test_1.12.vcxproj|solutionrelative:test_1.12\\Phoenix and Towers 1515C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Phoenix and Towers 1515C.cpp",
+              "DocumentMoniker": "D:\\code\\2025\u5E74\\2025\u5E741\u6708\\test_1.12\\test_1.12\\Phoenix and Towers 1515C.cpp",
+              "RelativeDocumentMoniker": "test_1.12\\Phoenix and Towers 1515C.cpp",
+              "ToolTip": "D:\\code\\2025\u5E74\\2025\u5E741\u6708\\test_1.12\\test_1.12\\Phoenix and Towers 1515C.cpp",
+              "RelativeToolTip": "test_1.12\\Phoenix and Towers 1515C.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-29T01:43:03.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
