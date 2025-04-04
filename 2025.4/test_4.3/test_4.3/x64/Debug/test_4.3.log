@@ -1,0 +1,3 @@
+﻿  shopee.cpp
+D:\code\2025年\2025年4月\test_4.3\test_4.3\shopee.cpp(82,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  test_4.3.vcxproj -> D:\code\2025年\2025年4月\test_4.3\x64\Debug\test_4.3.exe
