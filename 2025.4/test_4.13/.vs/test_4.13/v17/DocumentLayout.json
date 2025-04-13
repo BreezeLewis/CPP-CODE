@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\2025\u5E74\\2025\u5E744\u6708\\test_4.13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E8035A-1E77-4ED0-BDE7-758253A08EEE}|test_4.13\\test_4.13.vcxproj|D:\\code\\2025\u5E74\\2025\u5E744\u6708\\test_4.13\\test_4.13\\override.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0E8035A-1E77-4ED0-BDE7-758253A08EEE}|test_4.13\\test_4.13.vcxproj|solutionrelative:test_4.13\\override.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "override.cpp",
+              "DocumentMoniker": "D:\\code\\2025\u5E74\\2025\u5E744\u6708\\test_4.13\\test_4.13\\override.cpp",
+              "RelativeDocumentMoniker": "test_4.13\\override.cpp",
+              "ToolTip": "D:\\code\\2025\u5E74\\2025\u5E744\u6708\\test_4.13\\test_4.13\\override.cpp",
+              "RelativeToolTip": "test_4.13\\override.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T01:42:59.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

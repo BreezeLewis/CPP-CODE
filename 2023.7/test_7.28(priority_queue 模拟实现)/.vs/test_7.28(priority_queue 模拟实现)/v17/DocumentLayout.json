@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code-github\\CPP-CODE\\2023.7\\test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C57311A-C9D0-4587-9A33-34D5C5413E20}|test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0)\\test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0).vcxproj|D:\\code-github\\CPP-CODE\\2023.7\\test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0)\\test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0)\\Priority_Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C57311A-C9D0-4587-9A33-34D5C5413E20}|test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0)\\test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0).vcxproj|solutionrelative:test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0)\\Priority_Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C57311A-C9D0-4587-9A33-34D5C5413E20}|test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0)\\test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0).vcxproj|D:\\code-github\\CPP-CODE\\2023.7\\test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0)\\test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0)\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C57311A-C9D0-4587-9A33-34D5C5413E20}|test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0)\\test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0).vcxproj|solutionrelative:test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0)\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Priority_Queue.h",
+              "DocumentMoniker": "D:\\code-github\\CPP-CODE\\2023.7\\test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0)\\test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0)\\Priority_Queue.h",
+              "RelativeDocumentMoniker": "test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0)\\Priority_Queue.h",
+              "ToolTip": "D:\\code-github\\CPP-CODE\\2023.7\\test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0)\\test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0)\\Priority_Queue.h",
+              "RelativeToolTip": "test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0)\\Priority_Queue.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-12T02:44:36.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\code-github\\CPP-CODE\\2023.7\\test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0)\\test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0)\\test.cpp",
+              "RelativeDocumentMoniker": "test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0)\\test.cpp",
+              "ToolTip": "D:\\code-github\\CPP-CODE\\2023.7\\test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0)\\test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0)\\test.cpp",
+              "RelativeToolTip": "test_7.28(priority_queue \u6A21\u62DF\u5B9E\u73B0)\\test.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T02:44:37.164Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
